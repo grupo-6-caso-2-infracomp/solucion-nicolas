@@ -1,5 +1,5 @@
-# caso2_202210
-df.cruza
+# caso2_202220
+
 n.angarita
 
-Caso 2 infracomp 2022-10
+Caso 2 infracomp 
